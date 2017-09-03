@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="banda1">
+        <item>Banda 1</item>
+        <item>Negro</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+
+    </string-array>
+
+    <string-array name="banda2">
+        <item>Banda 2</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+
+    </string-array>
+    <string-array name="multiplicador">
+    <item>Multiplicador</item>
+    <item>Negro</item>
+    <item>Marron</item>
+    <item>Rojo</item>
+    <item>Naranja</item>
+    <item>Amarillo</item>
+    <item>Verde</item>
+    <item>Azul</item>
+    <item>Violeta</item>
+    <item>Gris</item>
+    <item>Blanco</item>
+    <item>Oro</item>
+    <item>Plata</item>
+    </string-array>
+
+    <string-array name="tolerancia">
+        <item>Tolerancia</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Oro</item>
+        <item>Plata</item>
+    </string-array>
+</resources>
+
